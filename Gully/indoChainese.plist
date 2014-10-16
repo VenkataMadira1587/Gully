@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Thumbnail</key>
+	<array>
+		<string>sweetcorn.jpg</string>
+		<string>hotsour.jpg</string>
+		<string>manchow.jpg</string>
+		<string>chickenspringrolls.jpg</string>
+		<string>chickenlollipop.jpg</string>
+		<string>paneerparcels.jpg</string>
+		<string>ricehakka.jpg</string>
+		<string>noodleshakka.jpg</string>
+		<string>vegmanchuria.jpg</string>
+		<string>paneermanchuria.jpg</string>
+		<string>babycornmanchuria.jpg</string>
+		<string>chickenmanchuria.jpg</string>
+		<string>fishmanchuria.jpg</string>
+		<string>prawn.jpg</string>
+	</array>
+	<key>Price</key>
+	<array>
+		<string>£ 2.95</string>
+		<string>£ 2.95</string>
+		<string>£ 2.95</string>
+		<string>£ 3.50</string>
+		<string>£ 4.50</string>
+		<string>£ 4.50</string>
+		<string>£ 3.50</string>
+		<string>£ 4.50</string>
+		<string>£ 4.95</string>
+		<string>£ 4.95</string>
+		<string>£ 4.95</string>
+		<string>£ 4.95</string>
+		<string>£ 5.45</string>
+		<string>£ 7.95</string>
+	</array>
+	<key>RecipeName</key>
+	<array>
+		<string>SweetCorn</string>
+		<string>Hot &amp; Sour</string>
+		<string>Manchow</string>
+		<string>Chicken Spring Roll</string>
+		<string>Chicken Lollipop</string>
+		<string>Paneer Parcels</string>
+		<string>Rice Hakka or Schezwan (VEG/EGG/CHICKEN/PRAWNS)</string>
+		<string>Noodles Hakka or Schezwan (VEG/EGG/CHICKEN/PRAWNS)</string>
+		<string>Veg Manchurian (CHILI/MANCHURIAN/65/SCHEAWAN)</string>
+		<string>Paneer (CHILI/MANCHURIAN/65/SCHEAWAN)</string>
+		<string>Baby Corn (CHILI/MANCHURIAN/65/SCHEAWAN)</string>
+		<string>Chichen (CHILI/MANCHURIAN/65/SCHEAWAN)</string>
+		<string>Fish (CHILI/MANCHURIAN/65/SCHEAWAN)</string>
+		<string>Prawn (CHILI/MANCHURIAN/65/SCHEAWAN)</string>
+	</array>
+</dict>
+</plist>

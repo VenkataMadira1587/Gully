@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RecipeName</key>
+	<array>
+		<string>Cut Mirchi</string>
+		<string>Pani Puri</string>
+		<string>Voda Pav</string>
+		<string>Punugulu</string>
+		<string>Egg Bajji</string>
+		<string>Samosa Cutlet</string>
+		<string>Dhai Puri</string>
+		<string>Bhel Puri</string>
+		<string>Mirchi Bajji</string>
+	</array>
+	<key>Price</key>
+	<array>
+		<string>£ 3.50</string>
+		<string>£ 2.50</string>
+		<string>£ 2.00</string>
+		<string>£ 3.50</string>
+		<string>£ 3.20</string>
+		<string>£ 3.50</string>
+		<string>£ 2.90</string>
+		<string>£ 3.20</string>
+		<string>£ 3.20</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>cutmirchi.jpg</string>
+		<string>PaniPuri.jpg</string>
+		<string>vodaPav.jpg</string>
+		<string>punugulu.jpg</string>
+		<string>eggBajji.jpg</string>
+		<string>SamosaCutlet.jpg</string>
+		<string>DahiPuri.jpg</string>
+		<string>bhelPuri.jpg</string>
+		<string>mirchiBajji.jpg</string>
+	</array>
+</dict>
+</plist>

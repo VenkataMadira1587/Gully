@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1 </key>
+	<dict>
+		<key>1 Monday </key>
+		<string>Monday 1: Plain rice,2 chapathi, masoor dal tadka, cabbage porial or lemon coconut chicken</string>
+		<key>2 Tuesday </key>
+		<string>Tuesday 1: Plain rice , 2 chapathi,  tuar dal tadka, palak paneer  or chicken palak</string>
+		<key>3 Wednesday </key>
+		<string>Wednesday 1: Biriyani 1 </string>
+		<key>4 Thursday </key>
+		<string>Thursday 1: Plain rice , 2 utappam, mix vegetable sambar or chicken chettinadu</string>
+		<key>5 Friday </key>
+		<string>Friday 1: Pulav rice , 2 chapathi,  chana masala or chicken masala ,sweet</string>
+	</dict>
+	<key>2 </key>
+	<dict>
+		<key>1 Monday </key>
+		<string>Monday 2: Plain rice , 2 chapathi,  masoor dal tadka, vegetable korma or chicken korma</string>
+		<key>2 Tuesday </key>
+		<string>Tuesday 2: Pulao rice , 2 chapathi,  dal makhni , paneer makhni or chicken makhni</string>
+		<key>3 Webnesday </key>
+		<string>Webnesday 2: Biriyani 2</string>
+		<key>4 Thursday </key>
+		<string>Thursday 2: Plain rice , 2 utappam,  coriander dal, vegetable jalfrezi or chicken jalfrezi</string>
+		<key>5 Friday </key>
+		<string>Friday 2: Plain rice , 2 chapathi, bagara baingan or chicken hyderabadi, sweet</string>
+	</dict>
+	<key>3 </key>
+	<dict>
+		<key>1 Monday </key>
+		<string>Monday 3: Plain rice , 2 chapathi, masoor dal tadka, vegetable poriyal or chicken kadai</string>
+		<key>2 Tuesday </key>
+		<string>Tuesday 3: Plain rice , 2 chapathi, green peas fry, paneer butter masala, chicken butter masala</string>
+		<key>3 Wednesday </key>
+		<string>Wednesday 3: Biriyani 3</string>
+		<key>4 Thursday </key>
+		<string>Thursday 3: Plain rice , 2 utappam,  moong dal tadka, vegetable kadi or chicken kadi</string>
+		<key>5 Friday </key>
+		<string>Friday 3: Pulao rice , 2 chapathi,  saag paneer or saag chicken, sweet</string>
+	</dict>
+</dict>
+</plist>

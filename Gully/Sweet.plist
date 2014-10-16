@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RecipeName</key>
+	<array>
+		<string>Any Sweet with Ice Cream</string>
+		<string>Gajar Ka Halwa</string>
+		<string>Double Ka Meeta</string>
+		<string>Qubani Ka Meeta</string>
+		<string>Kala Jamun</string>
+		<string>Deep Fried Ice cream</string>
+	</array>
+	<key>Price</key>
+	<array>
+		<string>£ 4.50</string>
+		<string>£ 3.50</string>
+		<string>£ 3.50</string>
+		<string>£ 3.50</string>
+		<string>£ 3.50</string>
+		<string>£ 4.50</string>
+	</array>
+	<key>Thumbnail</key>
+	<array>
+		<string>sweetwithicecream.jpeg</string>
+		<string>gajarkahalwa.jpg</string>
+		<string>doublekameeta.jpg</string>
+		<string>qubani.jpg</string>
+		<string>kala.jpg</string>
+		<string>deepfriedice.jpg</string>
+	</array>
+</dict>
+</plist>
